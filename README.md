@@ -1,2 +1,2 @@
 
-# Retail Price Optimiztion 
+# Retail Price Optimization 
